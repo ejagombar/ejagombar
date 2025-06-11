@@ -1,2 +1,4 @@
-#### Hi, I am [Ed Agombar](https://eagombar.uk)
-An Electronic and Computer Engineering Graduate and Software Engineer at Threatspike Labs
+#### [🌐︎ eagombar.uk](https://eagombar.uk)
+
+- Software Engineer at Threatspike
+- Electronic and Computer Engineering Graduate
