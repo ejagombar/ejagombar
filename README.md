@@ -1,4 +1,4 @@
 #### [🌐︎ eagombar.uk](https://eagombar.uk)
 
-- Senior Software Engineer at Threatspike
+- Software Engineer at Longshot Systems
 - Electronic and Computer Engineering Graduate
